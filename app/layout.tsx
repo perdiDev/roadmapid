@@ -1,4 +1,12 @@
+import Footer from './layout/footer'
 import './globals.css'
+import Header from './layout/header'
+import { Jaldi } from '@next/font/google'
+
+const jaldi = Jaldi({
+  weight: ["400", "700"],
+  subsets: ['devanagari', "latin", "latin-ext"]
+});
 
 export default function RootLayout({
   children,
@@ -6,13 +14,13 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
-      {/*
-        <head /> will contain the components returned by the nearest parent
-        head.tsx. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
-      */}
+    <html lang="en" className={jaldi.className}>
       <head />
-      <body>{children}</body>
+      <body className='background'>
+        <Header />
+          {children}
+        <Footer />
+      </body>
     </html>
   )
 }
