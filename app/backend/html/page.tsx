@@ -14,14 +14,14 @@ export default function Html() {
             <div className="hero-section space-y-8">
                 <TitlePage 
                     title="HTML" 
-                    linkBack="/frontend" 
-                    backTo="Frontend" 
+                    linkBack="/backend" 
+                    backTo="Backend" 
                 />
                 <CardDesc 
                     desc="HTML (Hypertext Markup Language) adalah bahasa markup standar yang digunakan untuk menentukan struktur dan konten dari halaman web. Ini menggunakan tag-tag yang dikenali oleh browser untuk menentukan bagaimana elemen seperti teks, gambar, dan video ditampilkan pada halaman. HTML merupakan dasar dari semua halaman web yang ditampilkan di internet." 
                 />
                 <SourceBelajar resources={sources} />
-                <ButtonBack linkBack="/frontend" />
+                <ButtonBack linkBack="/backend" />
             </div>
         </section>
     )
