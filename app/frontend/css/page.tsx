@@ -1,5 +1,6 @@
 import ButtonBack from '@/app/components/buttonBack'
 import CardDesc from '@/app/components/cardDesc'
+import CardNote from '@/app/components/cardNote'
 import SourceBelajar from '@/app/components/sourceBelajar'
 import TitlePage from '@/app/components/titlePage'
 
@@ -20,6 +21,9 @@ export default function Html() {
                 />
                 <CardDesc 
                     desc="CSS (Cascading Style Sheets) adalah sebuah styling yang digunakan untuk mengatur tampilan dan desain dari halaman web yang dibuat menggunakan HTML. Dengan CSS, developer dapat mengatur elemen seperti warna, font, posisi, dll. CSS memungkinkan developer untuk memisahkan konten dari tampilan, sehingga lebih mudah untuk mengelola dan mengubah desain website. CSS juga memungkinkan developer untuk mengatur responsivitas website, sehingga website dapat terlihat baik di berbagai ukuran layar device." 
+                />
+                <CardNote 
+                    desc="Tidak perlu untuk menguasai semuanya, cukup dasar-dasarnya"
                 />
                 <SourceBelajar resources={sources} />
                 <ButtonBack linkBack="/frontend" />
