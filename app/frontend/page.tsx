@@ -1,6 +1,7 @@
 import CardList from "@/app/components/cardList"
 import TitlePage from "@/app/components/titlePage"
 import CardDesc from "../components/cardDesc"
+import CardNote from "../components/cardNote"
 
 export default function Frontend() {
     const listAlur = [
@@ -28,6 +29,7 @@ export default function Frontend() {
                 <CardDesc 
                     desc="Frontend adalah bagian yang berinteraksi dengan pengguna. Dalam hal ini semua yang tampil di browser adalah tugas serorang frontend developer untuk mengatur tampilan dan interaksinya dengan pengguna. Selain itu, frontend dev bertugas untuk memanfaatkan API yang dibuat oleh backend agar bisa dimanfaatkan pada browser untuk mebuat website lebih interaktif dan dinamis." 
                 />
+                <CardNote desc="Teman-teman jangan melihat berapa banyak yang perlu dipelajari. Tapi coba untuk memulai untuk menikmati prosesnya, dan kata kuncinya adalah memulai." />
                 <div className="layout-grid">
                     {listAlur.map(list =>
                         <CardList listNumber={list.lisNumber} linkTo={`/frontend/${list.linkTo}`} jalur={list.jalur} />
