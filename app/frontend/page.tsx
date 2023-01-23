@@ -1,7 +1,7 @@
 import CardList from "@/app/components/cardList"
 import TitlePage from "@/app/components/titlePage"
-import CardDesc from "../components/cardDesc"
-import CardNote from "../components/cardNote"
+import CardDesc from "@/app/components/cardDesc"
+import CardNote from "@/app/components/cardNote"
 
 export default function Frontend() {
     const listAlur = [

@@ -4,8 +4,16 @@ import CardDesc from "@/app/components/cardDesc"
 
 export default function Frontend() {
     const listAlur = [
-        {lisNumber: 1, linkTo: "html", jalur: "Frontend"},
-        {lisNumber: 2, linkTo: "js", jalur: "Javascript"},
+        {lisNumber: 0, linkTo: "dasarweb", jalur: "Dasar Web"},
+        {lisNumber: 2, linkTo: "javascript", jalur: "Javascript"},
+        {lisNumber: 3, linkTo: "cli", jalur: "CLI"},
+        {lisNumber: 4, linkTo: "nodejs", jalur: "NodeJS"},
+        {lisNumber: 5, linkTo: "git", jalur: "Git"},
+        {lisNumber: 6, linkTo: "mysql", jalur: "MySql"},
+        {lisNumber: 7, linkTo: "api", jalur: "API"},
+        {lisNumber: 8, linkTo: "caching", jalur: "Caching"},
+        {lisNumber: 9, linkTo: "security", jalur: "Security"},
+        {lisNumber: 10, linkTo: "testing", jalur: "Testing"},
     ]
     return (
         <section id="main" className="container">

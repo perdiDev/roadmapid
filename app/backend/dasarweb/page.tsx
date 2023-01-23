@@ -6,19 +6,19 @@ import TitlePage from '@/app/components/titlePage'
 export default function Html() {
     const sources = [
         {icon: 'github', detail: "Repo PerdiDev", link: "https://github.com/perdiDev"},
-        {icon: 'youtube', detail: "YT-Web Programing Unpas", link: "https://youtube.com"},
-        {icon: 'github', detail: "Repo Unpas", link: "https://github.com/perdiDev"},
+        // {icon: 'youtube', detail: "YT-Web Programing Unpas", link: "https://youtube.com"},
+        // {icon: 'github', detail: "Repo Unpas", link: "https://github.com/perdiDev"},
     ]
     return (
         <section id="main" className="container">
             <div className="hero-section space-y-8">
                 <TitlePage 
-                    title="HTML" 
+                    title="Dasar Web" 
                     linkBack="/backend" 
                     backTo="Backend" 
                 />
                 <CardDesc 
-                    desc="HTML (Hypertext Markup Language) adalah bahasa markup standar yang digunakan untuk menentukan struktur dan konten dari halaman web. Ini menggunakan tag-tag yang dikenali oleh browser untuk menentukan bagaimana elemen seperti teks, gambar, dan video ditampilkan pada halaman. HTML merupakan dasar dari semua halaman web yang ditampilkan di internet." 
+                    desc="{ }" 
                 />
                 <SourceBelajar resources={sources} />
                 <ButtonBack linkBack="/backend" />
