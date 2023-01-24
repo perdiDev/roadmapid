@@ -31,7 +31,7 @@ export default function Frontend() {
                 <CardNote desc="Backend developer harus memiliki pengetahuan dasar mengenai frontend development seperti html dan css." />
                 <div className="layout-grid">
                     {listAlur.map(list =>
-                        <CardList listNumber={num++} linkTo={`/backend/${list.linkTo}`} jalur={list.jalur} />
+                        <CardList listNumber={num++} linkTo={`/backend/${list.linkTo}`} jalur={list.jalur} key={num.toString()} />
                     )}
                 </div>
             </div>

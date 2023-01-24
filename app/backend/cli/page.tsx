@@ -7,7 +7,7 @@ import TitlePage from '@/app/components/titlePage'
 export default function Html() {
     const sources = [
         {icon: 'link', detail: "Apa itu cli? - Hostinger", link: "https://www.hostinger.co.id/tutorial/apa-itu-cli"},
-        {icon: 'youtue', detail: "Terminal CLI dasar - Dea Afrizal", link: "https://www.youtube.com/watch?v=ClbWfffCYf4"},
+        {icon: 'youtube', detail: "Terminal CLI dasar - Dea Afrizal", link: "https://www.youtube.com/watch?v=ClbWfffCYf4"},
         {icon: 'link', detail: "Command line crash course - MDN (Berbahasa inggris)", link: "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line"},
     ]
     return (

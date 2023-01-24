@@ -33,7 +33,7 @@ export default function Frontend() {
                 <CardNote desc="Alur belajar yang disediakan berdasarkan pengalaman dan riset. Oleh karena itu, alur belajar bisa disesuaikan dengan kebutuhan masing-masing." />
                 <div className="layout-grid">
                     {listAlur.map(list =>
-                        <CardList listNumber={num++} linkTo={`/frontend/${list.linkTo}`} jalur={list.jalur} />
+                        <CardList listNumber={num++} linkTo={`/frontend/${list.linkTo}`} jalur={list.jalur}  key={num.toString()} />
                     )}
                 </div>
             </div>
