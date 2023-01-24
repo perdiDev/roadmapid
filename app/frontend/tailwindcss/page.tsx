@@ -7,6 +7,7 @@ export default function Html() {
     const sources = [
         {icon: 'link', detail: "Belajar tailwindcss - Sikola koding", link: "https://sekolahkoding.com/belajar/tailwind-css"},
         {icon: 'youtube', detail: "Belajar Tailwind - WPU", link: "https://www.youtube.com/watch?v=z3slaXqmkT0&list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h"},
+        {icon: 'youtube', detail: "Belajar Tailwind - Parsinta (Alternatif)", link: "https://www.youtube.com/watch?v=rqdR9wbW71Y&list=PLCZlgfAG0GXC3A8LuUzbbWVWKD-CX5C3_"},
         {icon: 'youtube', detail: "Learn tailwindcss - Freecodecamp (Berbahasa inggris)", link: "https://www.youtube.com/watch?v=ft30zcMlFao"},
     ]
     return (
