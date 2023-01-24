@@ -4,17 +4,18 @@ import CardDesc from "@/app/components/cardDesc"
 
 export default function Frontend() {
     const listAlur = [
-        {lisNumber: 0, linkTo: "dasarweb", jalur: "Dasar Web"},
-        {lisNumber: 2, linkTo: "javascript", jalur: "Javascript"},
-        {lisNumber: 3, linkTo: "cli", jalur: "CLI"},
-        {lisNumber: 4, linkTo: "nodejs", jalur: "NodeJS"},
-        {lisNumber: 5, linkTo: "git", jalur: "Git"},
-        {lisNumber: 6, linkTo: "mysql", jalur: "MySql"},
-        {lisNumber: 7, linkTo: "api", jalur: "API"},
-        {lisNumber: 8, linkTo: "caching", jalur: "Caching"},
-        {lisNumber: 9, linkTo: "security", jalur: "Security"},
-        {lisNumber: 10, linkTo: "testing", jalur: "Testing"},
-    ]
+        {linkTo: "dasarweb", jalur: "Dasar Web"},
+        {linkTo: "javascript", jalur: "Javascript"},
+        {linkTo: "cli", jalur: "CLI"},
+        {linkTo: "nodejs", jalur: "NodeJS"},
+        {linkTo: "git", jalur: "Git"},
+        {linkTo: "mysql", jalur: "MySql"},
+        {linkTo: "api", jalur: "API"},
+        {linkTo: "caching", jalur: "Caching"},
+        {linkTo: "security", jalur: "Security"},
+        {linkTo: "testing", jalur: "Testing"},
+    ];
+    let num = 0;
     return (
         <section id="main" className="container">
             <div className="hero-section space-y-8">
@@ -28,7 +29,7 @@ export default function Frontend() {
                 />
                 <div className="layout-grid">
                     {listAlur.map(list =>
-                        <CardList listNumber={list.lisNumber} linkTo={`/backend/${list.linkTo}`} jalur={list.jalur} />
+                        <CardList listNumber={num++} linkTo={`/backend/${list.linkTo}`} jalur={list.jalur} />
                     )}
                 </div>
             </div>

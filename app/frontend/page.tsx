@@ -5,19 +5,20 @@ import CardNote from "@/app/components/cardNote"
 
 export default function Frontend() {
     const listAlur = [
-        {lisNumber: 0, linkTo: "dasarweb", jalur: "Dasar Web"},
-        {lisNumber: 1, linkTo: "html", jalur: "HTML"},
-        {lisNumber: 2, linkTo: "css", jalur: "CSS"},
-        {lisNumber: 3, linkTo: "javascript", jalur: "Javascript"},
-        {lisNumber: 4, linkTo: "bootstrap", jalur: "Bootstrap"},
-        {lisNumber: 5, linkTo: "git", jalur: "Git"},
-        {lisNumber: 6, linkTo: "npm", jalur: "NPM"},
-        {lisNumber: 7, linkTo: "react", jalur: "React"},
-        {lisNumber: 8, linkTo: "tailwindcss", jalur: "Tailwindcss"},
-        {lisNumber: 9, linkTo: "nextjs", jalur: "Next Js"},
-        {lisNumber: 10, linkTo: "api", jalur: "API"},
-        {lisNumber: 11, linkTo: "projek", jalur: "Proyek Akhir"},
-    ]
+        {linkTo: "dasarweb", jalur: "Dasar Web"},
+        {linkTo: "html", jalur: "HTML"},
+        {linkTo: "css", jalur: "CSS"},
+        {linkTo: "javascript", jalur: "Javascript"},
+        {linkTo: "bootstrap", jalur: "Bootstrap"},
+        {linkTo: "git", jalur: "Git"},
+        {linkTo: "npm", jalur: "NPM"},
+        {linkTo: "react", jalur: "React"},
+        {linkTo: "tailwindcss", jalur: "Tailwindcss"},
+        {linkTo: "nextjs", jalur: "Next Js"},
+        {linkTo: "api", jalur: "API"},
+        {linkTo: "projek", jalur: "Proyek Akhir"},
+    ];
+    let num = 0;
     return (
         <section id="main" className="container">
             <div className="hero-section space-y-8">
@@ -32,7 +33,7 @@ export default function Frontend() {
                 <CardNote desc="Teman-teman jangan melihat berapa banyak yang perlu dipelajari. Tapi coba untuk memulai untuk menikmati prosesnya, dan kata kuncinya adalah memulai." />
                 <div className="layout-grid">
                     {listAlur.map(list =>
-                        <CardList listNumber={list.lisNumber} linkTo={`/frontend/${list.linkTo}`} jalur={list.jalur} />
+                        <CardList listNumber={num++} linkTo={`/frontend/${list.linkTo}`} jalur={list.jalur} />
                     )}
                 </div>
             </div>
