@@ -8,6 +8,7 @@ export default function Html() {
         {icon: 'link', detail: "Pengenalan bootstrap - Petani Kode (Cukup tau aja)", link: "https://www.petanikode.com/bootstrap-dasar/"},
         {icon: 'youtube', detail: "Bootstrap 5 - CAI (Rekomendasi untuk pemula)", link: "https://www.youtube.com/watch?v=CleFk3BZB3g&list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p"},
         {icon: 'youtube', detail: "Bootstrap Full Course - Freecodecamp (Rekomendasi untuk pemula - Berbahasa inggris)", link: "https://youtu.be/-qfEOE4vtxE"},
+        {icon: 'link', detail: "Dokumentasi bootstrap (Berbahasa inggris)", link: "https://getbootstrap.com/"},
     ]
     return (
         <section id="main" className="container">

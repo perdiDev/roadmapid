@@ -30,7 +30,7 @@ export default function Frontend() {
                 <CardDesc 
                     desc="Frontend adalah bagian yang berinteraksi dengan pengguna. Dalam hal ini semua yang tampil di browser adalah tugas serorang frontend developer untuk mengatur tampilan dan interaksinya dengan pengguna. Selain itu, frontend dev bertugas untuk memanfaatkan API yang dibuat oleh backend agar bisa dimanfaatkan pada browser untuk mebuat website lebih interaktif dan dinamis." 
                 />
-                <CardNote desc="Teman-teman jangan melihat berapa banyak yang perlu dipelajari. Tapi coba untuk memulai untuk menikmati prosesnya, dan kata kuncinya adalah memulai." />
+                <CardNote desc="Alur belajar yang disediakan berdasarkan pengalaman dan riset. Oleh karena itu, alur belajar bisa disesuaikan dengan kebutuhan masing-masing." />
                 <div className="layout-grid">
                     {listAlur.map(list =>
                         <CardList listNumber={num++} linkTo={`/frontend/${list.linkTo}`} jalur={list.jalur} />

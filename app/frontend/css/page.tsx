@@ -23,7 +23,7 @@ export default function Html() {
                     desc="CSS (Cascading Style Sheets) adalah sebuah styling yang digunakan untuk mengatur tampilan dan desain dari halaman web yang dibuat menggunakan HTML. Dengan CSS, developer dapat mengatur elemen seperti warna, font, posisi, dll. CSS memungkinkan developer untuk memisahkan konten dari tampilan, sehingga lebih mudah untuk mengelola dan mengubah desain website. CSS juga memungkinkan developer untuk mengatur responsivitas website, sehingga website dapat terlihat baik di berbagai ukuran layar device." 
                 />
                 <CardNote 
-                    desc="Tidak perlu untuk menguasai semuanya, cukup dasar-dasarnya"
+                    desc="CSS mempunyai referensi yang sangat luas. Oleh karenanya, disarankan untuk pemula mempelajari dasar-dasarnya saja terlebih dahulu."
                 />
                 <SourceBelajar resources={sources} />
                 <ButtonBack linkBack="/frontend" />

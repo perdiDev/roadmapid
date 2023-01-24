@@ -7,7 +7,7 @@ export default function Html() {
     const sources = [
         {icon: 'link', detail: "Tutorial Git - Petani Kode (Simple dan sederhana)", link: "https://www.petanikode.com/tutorial/git/"},
         {icon: 'youtube', detail: "Belajar git & github - Web Programing Unpas (Rekomendasi untuk pemula)", link: "https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf"},
-        {icon: 'youtube', detail: "Tutorial git dasar - PZN (Alternatif - Satu video)", link: "https://youtu.be/fQbTeNX1mvM"},
+        {icon: 'youtube', detail: "Tutorial git dasar - Programer Zaman Now (Alternatif - Satu video)", link: "https://youtu.be/fQbTeNX1mvM"},
         {icon: 'youtube', detail: "Git & github for beginners - Freecodecamp (Rekomendasi - Berbahasa inggris)", link: "https://www.youtube.com/watch?v=RGOj5yH7evk"},
     ]
     return (

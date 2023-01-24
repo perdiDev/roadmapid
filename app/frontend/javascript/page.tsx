@@ -23,6 +23,7 @@ export default function Html() {
                 <CardDesc 
                     desc="JavaScript adalah bahasa pemrograman yang digunakan untuk menambahkan interaksi dan dinamika pada halaman web. JavaScript digunakan untuk mengontrol elemen HTML dan CSS, sehingga dapat membuat website lebih interaktif dan responsif. JavaScript juga digunakan untuk melakukan operasi pada data, seperti validasi form, pengambilan data dari server, dll. JavaScript biasanya dijalankan di browser, tetapi juga dapat dijalankan di server dengan menggunakan Node.js." 
                 />
+                <CardNote desc="Setelah mempelajari javascript, teman-teman bisa membuat satu atau lebih project agar dapat melihat dan memanfaatkan pengetahuan yang sudah didapat. Seperti misalnya membuat sebuah kalkulator sederhana." />
                 <SourceBelajar resources={sources} />
                 <ButtonBack linkBack="/frontend" />
             </div>

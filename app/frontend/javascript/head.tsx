@@ -3,7 +3,7 @@ import DefaultTags from "@/app/layout/defaultTags";
 export default function Head() {
   return (
     <>
-      <title>CSS | Frontend | RoadmapId</title>
+      <title>Javascript | Frontend | RoadmapId</title>
       <DefaultTags />
     </>
   )
