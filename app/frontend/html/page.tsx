@@ -6,6 +6,7 @@ import TitlePage from '@/app/components/titlePage'
 export default function Html() {
     const sources = [
         {icon: 'link', detail: "Tutorial HTML - Petani Kode (Simple dan sederhana)", link: "https://www.petanikode.com/tutorial/html/"},
+        {icon: 'link', detail: "HTML Lengkap - Koding (Sangat direkomendasi - Materi Lengkap)", link: "https://kodi.ng/referensi/html"},
         {icon: 'youtube', detail: "HTML Dasar - Web Programing Unpas (Rekomendasi untuk pemula)", link: "https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F"},
         {icon: 'link', detail: "HTML Lengkap - W3Schools (Berbahasa inggris)", link: "https://w3schools.com/html/"},
         {icon: 'game', detail: "Introduction to HTML - Sololearn (Berbahasa inggris)", link: "https://www.sololearn.com/learn/courses/html-introduction"},
