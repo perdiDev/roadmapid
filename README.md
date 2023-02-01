@@ -27,7 +27,11 @@ First, install the package manager:
 
 pnpm install
 
+```
+
 or 
+
+```bash 
 
 pnpm i
 
