@@ -14,7 +14,7 @@ export default function Footer() {
                                 <Link className="flex items-center justify-center w-8 h-8 text-xs font-medium text-white bg-gray-700 border-2 border-white rounded-full hover:bg-gray-600 dark:border-gray-800" href="https://github.com/perdiDev/roadmapid/graphs/contributors" target="_blank">+5</Link>
                             </div>
                         </div>
-                        <a className="text-sm text-white-1 font-extralight" href="https://www.instagram.com/perdidev/">created by @perdi<span className="text-red-600">dev</span></a>
+                        <a className="text-sm text-white-1 font-extralight" href="https://www.instagram.com/perdidev/">created by @perdi<span className="text-red-600">dev</span> ©2023</a>
                     </div>
                 </div>
             </div>
