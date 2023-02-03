@@ -55,4 +55,4 @@ To learn more about Next.js and Tailwindcss, take a look at the following resour
 - [Tailwindcss Documentation](https://tailwindcss.com/docs) - learn about css framework using utilitie class
 
 ## License
-[License](https://github.com/perdiDev/roadmapid/blob/main/LICENSE)
+🔒 [License](https://github.com/perdiDev/roadmapid/blob/main/LICENCE)
