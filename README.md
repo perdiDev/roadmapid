@@ -54,3 +54,5 @@ To learn more about Next.js and Tailwindcss, take a look at the following resour
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Tailwindcss Documentation](https://tailwindcss.com/docs) - learn about css framework using utilitie class
 
+## License
+[License](https://github.com/perdiDev/roadmapid/blob/main/LICENSE)
