@@ -5,7 +5,7 @@ export default function DefaultTags() {
             <meta name="description" content="Mulai perjalananmu sebagai seorang programer di sini!" />
             <meta name="keywords" content="roadmapid, roadmap, developer, website, web developer, alur belajar, programing, programer, belajar web pemula, frontend, backend, html, css, javascript" />
             <meta name="author" content="PerdiDev" />
-            <link rel="icon" href="/roadmap-logo.svg" />
+            <link rel="icon" href="/roadmap-logo-2.svg" />
             <meta property="og:title" content="RoadmapId" />
             <meta property="og:type" content="website" />
             <meta property="og:url" content="https://roadmapid.vercel.app/" />
