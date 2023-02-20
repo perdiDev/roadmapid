@@ -17,7 +17,7 @@ module.exports = {
       },
     },
     fontFamily: {
-      'sans': 'Jaldi',
+      'sans': ['Jaldi', 'sans-serif'],
     },
     extend: {
       colors: {
