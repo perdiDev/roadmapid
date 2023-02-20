@@ -14,11 +14,7 @@ export default function Home() {
             <div className="w-full card-color py-20 rounded-xl">
               <div className="w-full flex flex-col md:flex-row gap-8 justify-center px-6">
                 {alurBelajar.map((alurDireksi, i) => (
-                  <Button
-                    key={i}
-                    name={alurDireksi.alur}
-                    direksi={alurDireksi.alur.toLowerCase()}
-                  />
+                  <Button key={i} name={alurDireksi.alur} />
                 ))}
               </div>
             </div>
