@@ -4,18 +4,18 @@
     "deskripsi": "Frontend adalah bagian yang berinteraksi dengan pengguna. Dalam hal ini semua yang tampil di browser adalah tugas serorang frontend developer untuk mengatur tampilan dan interaksinya dengan pengguna. Selain itu, frontend dev bertugas untuk memanfaatkan API yang dibuat oleh backend agar bisa dimanfaatkan pada browser untuk mebuat website lebih interaktif dan dinamis.",
     "catatan": "Alur belajar yang disediakan berdasarkan pengalaman dan riset. Oleh karena itu, alur belajar bisa disesuaikan dengan kebutuhan masing-masing.",
     "subAlur": [
-      { "linkTo": "dasarweb", "jalur": "Dasar Web" },
-      { "linkTo": "html", "jalur": "HTML" },
-      { "linkTo": "css", "jalur": "CSS" },
-      { "linkTo": "javascript", "jalur": "Javascript" },
-      { "linkTo": "bootstrap", "jalur": "Bootstrap" },
-      { "linkTo": "git", "jalur": "Git" },
-      { "linkTo": "npm", "jalur": "NPM" },
-      { "linkTo": "react", "jalur": "React" },
-      { "linkTo": "tailwindcss", "jalur": "Tailwindcss" },
-      { "linkTo": "nextjs", "jalur": "Next Js" },
-      { "linkTo": "api", "jalur": "API" },
-      { "linkTo": "projek", "jalur": "Proyek Akhir" }
+      "Dasar Web",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "Git",
+      "NPM",
+      "ReactJS",
+      "Tailwind Css",
+      "Next JS",
+      "API",
+      "Proyek Akhir"
     ]
   },
   {
@@ -23,16 +23,16 @@
     "deskripsi": "Backend adalah bagian yang bertugas untuk mengelolah logika dari sebuah website.Logika tersebut bekerja untuk menghubungkan antara database dengan API. Hal itu yang nantinya akan dikomsumsi oleh frontend. Backend developer setidaknya harus mengerti juga dasar-dasar dari frontend. Logika pemrograman pada backend bisa ditulis dalam berbagai bahasa pemrograman. Namun, untuk memudahkan proses belajar. Maka kami menyarankan untuk mengunakan bahasa pemrograman Javascript.",
     "catatan": "Backend developer harus memiliki pengetahuan dasar mengenai frontend development seperti html dan css.",
     "subAlur": [
-      { "linkTo": "dasarweb", "jalur": "Dasar Web" },
-      { "linkTo": "javascript", "jalur": "Javascript" },
-      { "linkTo": "cli", "jalur": "CLI" },
-      { "linkTo": "nodejs", "jalur": "NodeJS" },
-      { "linkTo": "git", "jalur": "Git" },
-      { "linkTo": "postgresql", "jalur": "PostgreSQL" },
-      { "linkTo": "api", "jalur": "API" },
-      { "linkTo": "caching", "jalur": "Caching" },
-      { "linkTo": "security", "jalur": "Security" },
-      { "linkTo": "testing", "jalur": "Testing" }
+      "Dasar Web",
+      "Javascript",
+      "CLI",
+      "Node JS",
+      "Git",
+      "Postgres SQL",
+      "API",
+      "Caching",
+      "Security",
+      "Testing"
     ]
   }
 ]
