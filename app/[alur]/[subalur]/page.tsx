@@ -1,5 +1,6 @@
 import ButtonBack from "@/app/components/buttonBack";
 import CardDesc from "@/app/components/cardDesc";
+import CardNote from "@/app/components/cardNote";
 import SourceBelajar from "@/app/components/sourceBelajar";
 import TitlePage from "@/app/components/titlePage";
 
@@ -7,9 +8,9 @@ import dataSubalurBelajar from "@/lib/subAlurBelajar.json";
 import slugify from "@/lib/slugify";
 
 export async function generateStaticParams() {
-  return dataSubalurBelajar.map((subAlurBelajar) => ({
-    alur: subAlurBelajar.alur,
-    subalur: subAlurBelajar.subalur,
+  return dataSubalurBelajar?.map((subAlurBelajar) => ({
+    alur: slugify(subAlurBelajar.alur),
+    subalur: slugify(subAlurBelajar.subalur),
   }));
 }
 
@@ -39,6 +40,11 @@ export default async function Page({
           backTo={alurBelajarTerpilih?.alur}
         />
         <CardDesc desc={alurBelajarTerpilih?.deskripsi} />
+        {alurBelajarTerpilih?.catatan ? (
+          <CardNote desc={alurBelajarTerpilih?.catatan} />
+        ) : (
+          ""
+        )}
         <SourceBelajar resources={alurBelajarTerpilih?.sumberBelajar} />
         <ButtonBack linkBack={`/${slugify(alurBelajarTerpilih?.alur)}`} />
       </div>
