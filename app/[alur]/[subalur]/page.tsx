@@ -30,18 +30,17 @@ export default async function Page({
     params.alur,
     params.subalur
   );
-  console.log(alurBelajarTerpilih?.sumberBelajar);
   return (
     <section id="main" className="container">
       <div className="hero-section space-y-8">
         <TitlePage
           title={alurBelajarTerpilih?.subalur}
-          linkBack="/frontend"
-          backTo="Frontend"
+          linkBack={`/${slugify(alurBelajarTerpilih?.alur)}`}
+          backTo={alurBelajarTerpilih?.alur}
         />
         <CardDesc desc={alurBelajarTerpilih?.deskripsi} />
         <SourceBelajar resources={alurBelajarTerpilih?.sumberBelajar} />
-        <ButtonBack linkBack="/frontend" />
+        <ButtonBack linkBack={`/${slugify(alurBelajarTerpilih?.alur)}`} />
       </div>
     </section>
   );
