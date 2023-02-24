@@ -12,6 +12,7 @@ export default function SourceBelajar({ resources }: any) {
               className="button-icon"
               href={source.linkSumber}
               target="_blank"
+              rel="noopener"
             >
               <Image
                 src={`/icon/${source.tipe}.svg`}
@@ -24,6 +25,7 @@ export default function SourceBelajar({ resources }: any) {
               className="detail-source"
               href={source.linkSumber}
               target="_blank"
+              rel="noopener"
             >
               <p className="text-detail-source">{source.detail}</p>
             </Link>
