@@ -1,0 +1,618 @@
+[
+  {
+    "alur": "Frontend",
+    "subalur": "Dasar Web",
+    "deskripsi": "Mempelajari bagaimana internet bisa berkomunikasi dengan komputer yang ada didunia untuk menyediakan beragam informasi. Komunikasi tersebut memiliki standarisasi yang berlaku secara global. Dasar tersebut akan memberikan kemampuan pada browser untuk menampilkan informasi yang dibutuhkan oleh pengguna. Tambahannya, kita perlu mengetahui bagaimana informasi bisa diakses secara online melalui penamaan domain. Seperti google.com, youtube.com, github.io, dll.",
+    "catatan": "Cukup pahami bagaimana internet bekerja. Ini hanyalah pengetahuan dasar yang dibutuhkan untuk memulai perjalanan belajar frontend.",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "HTTP - Dicoding Blog",
+        "linkSumber": "https://www.dicoding.com/blog/perbedaan-http-dan-https/"
+      },
+      {
+        "tipe": "link",
+        "detail": "Apa itu domain - Hostinger",
+        "linkSumber": "https://www.hostinger.co.id/tutorial/apa-itu-domain/"
+      },
+      {
+        "tipe": "link",
+        "detail": "DNS - Hostinger",
+        "linkSumber": "https://www.niagahoster.co.id/blog/apa-itu-dns/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar HTTP - Programer Zaman Now (Optional)",
+        "linkSumber": "https://www.youtube.com/watch?v=92Rjzrq4oIg"
+      },
+      {
+        "tipe": "link",
+        "detail": "How does internet work - MDN (Lengkap - Berbahasa inggris)",
+        "linkSumber": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work"
+      }
+    ]
+  },
+  {
+    "alur": "Frontend",
+    "subalur": "HTML",
+    "deskripsi": "HTML (Hypertext Markup Language) adalah bahasa markup standar yang digunakan untuk menentukan struktur dan konten dari halaman web. Ini digunakan pada setiap pembuatan website. HTML adalah alur belajar yang wajib untuk setiap web developer, bukan hanya untuk frontend tapi juga untuk backend developer.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Tutorial HTML - Petani Kode (Simple dan sederhana)",
+        "linkSumber": "https://www.petanikode.com/tutorial/html/"
+      },
+      {
+        "tipe": "link",
+        "detail": "HTML Lengkap - Koding (Sangat direkomendasi - Materi Lengkap)",
+        "linkSumber": "https://kodi.ng/referensi/html"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "HTML Dasar - Web Programing Unpas (Rekomendasi untuk pemula)",
+        "linkSumber": "https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F"
+      },
+      {
+        "tipe": "link",
+        "detail": "HTML Lengkap - W3Schools (Berbahasa inggris)",
+        "linkSumber": "https://w3schools.com/html/"
+      },
+      {
+        "tipe": "game",
+        "detail": "Introduction to HTML - Sololearn (Berbahasa inggris)",
+        "linkSumber": "https://www.sololearn.com/learn/courses/html-introduction"
+      }
+    ]
+  },
+  {
+    "alur": "Frontend",
+    "subalur": "CSS",
+    "deskripsi": "CSS (Cascading Style Sheets) adalah sebuah styling yang digunakan untuk mengatur tampilan dan desain dari halaman web yang dibuat menggunakan HTML. Dengan CSS, developer dapat mengatur elemen seperti warna, font, posisi, dll. CSS memungkinkan developer untuk memisahkan konten dari tampilan, sehingga lebih mudah untuk mengelola dan mengubah desain website. CSS juga memungkinkan developer untuk mengatur responsivitas website, sehingga website dapat terlihat baik di berbagai ukuran layar device.",
+    "catatan": "CSS mempunyai referensi yang sangat luas. Oleh karenanya, disarankan untuk pemula mempelajari dasar-dasarnya saja terlebih dahulu.",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Tutorial CSS - Petani Kode (Simple dan sederhana)",
+        "linkSumber": "https://www.petanikode.com/tutorial/css/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "CSS Dasar - Web Programing Unpas (Rekomendasi untuk pemula)",
+        "linkSumber": "https://www.youtube.com/watch?v=CleFk3BZB3g&list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p"
+      },
+      {
+        "tipe": "link",
+        "detail": "CSS Lengkap - W3Schools (Berbahasa inggris)",
+        "linkSumber": "https://w3schools.com/css/"
+      },
+      {
+        "tipe": "game",
+        "detail": "Introduction to CSS - Sololearn (Berbahasa inggris)",
+        "linkSumber": "https://www.sololearn.com/learn/courses/css-introduction"
+      }
+    ]
+  },
+  {
+    "alur": "Frontend",
+    "subalur": "Javascript",
+    "deskripsi": "JavaScript adalah bahasa pemrograman yang digunakan untuk menambahkan interaksi dan dinamika pada halaman web. JavaScript digunakan untuk mengontrol elemen HTML dan CSS, sehingga dapat membuat website lebih interaktif dan responsif. JavaScript juga digunakan untuk melakukan operasi pada data, seperti validasi form, pengambilan data dari server, dll. JavaScript biasanya dijalankan di browser, tetapi juga dapat dijalankan di server dengan menggunakan Node.js.",
+    "catatan": "Setelah mempelajari javascript, teman-teman bisa membuat satu atau lebih project agar dapat melihat dan memanfaatkan pengetahuan yang sudah didapat. Seperti misalnya membuat sebuah kalkulator sederhana.",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Tutorial Javascript - Petani Kode (Simple dan sederhana)",
+        "linkSumber": "https://www.petanikode.com/tutorial/javascript/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Javascript Dasar - Web Programing Unpas (Rekomendasi untuk pemula)",
+        "linkSumber": "https://www.youtube.com/watch?v=RUTV_5m4VeI&list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w"
+      },
+      {
+        "tipe": "link",
+        "detail": "Javascript Lengkap - W3Schools (Berbahasa inggris)",
+        "linkSumber": "https://w3schools.com/js/"
+      },
+      {
+        "tipe": "game",
+        "detail": "Introduction to Javascript - Sololearn (Berbahasa inggris)",
+        "linkSumber": "https://www.sololearn.com/learn/courses/javascript-introduction"
+      },
+      {
+        "tipe": "github",
+        "detail": "30 days challanges of Javascript - Repos Github (Berbahasa inggris)",
+        "linkSumber": "https://github.com/Asabeneh/30-Days-Of-JavaScript"
+      }
+    ]
+  },
+  {
+    "alur": "Frontend",
+    "subalur": "Bootstrap",
+    "deskripsi": "Bootstrap adalah sebuah framework pengembangan web front-end yang populer dan open-source. Framework ini digunakan untuk membuat website dan aplikasi web yang responsif dan mobile-first. Bootstrap menyediakan kumpulan komponen CSS dan JavaScript yang dirancang untuk bekerja secara harmonis, seperti form, tombol, dan navigation bar, untuk membantu developer dalam membuat proyek web yang responsif dan menarik. Bootstrap juga menyertakan sistem grid yang responsif yang memudahkan dalam pembuatan layout yang sesuai dengan ukuran layar yang berbeda. Bootstrap juga mendukung plugin JavaScript seperti modal, tooltip, dan popover. Bootstrap merupakan alat yang kuat yang dapat membantu developer dalam membuat website dan aplikasi web yang profesional, responsif dengan cepat dan mudah.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Pengenalan bootstrap - Petani Kode (Cukup tau aja)",
+        "linkSumber": "https://www.petanikode.com/bootstrap-dasar/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Bootstrap 5 - CAI (Rekomendasi untuk pemula)",
+        "linkSumber": "https://www.youtube.com/watch?v=CleFk3BZB3g&list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Bootstrap Full Course - Freecodecamp (Rekomendasi untuk pemula - Berbahasa inggris)",
+        "linkSumber": "https://youtu.be/-qfEOE4vtxE"
+      },
+      {
+        "tipe": "link",
+        "detail": "Dokumentasi bootstrap (Berbahasa inggris)",
+        "linkSumber": "https://getbootstrap.com/"
+      }
+    ]
+  },
+  {
+    "alur": "Frontend",
+    "subalur": "Git",
+    "deskripsi": "Git adalah version control system (VCS) yang terdistribusi dan digunakan untuk melacak perubahan pada file komputer dan menyelaraskan kerja pada file tersebut antara beberapa orang. Git pertama kali dikembangkan oleh Linus Torvalds, yang juga merupakan pembuat sistem operasi Linux. Git memungkinkan developer untuk menyimpan versi dari kode mereka dan mengelola perubahan yang dibuat selama pengembangan. Git juga memungkinkan developer untuk bekerja secara bersama-sama pada proyek yang sama dengan menyelaraskan perubahan mereka secara real-time.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Tutorial Git - Petani Kode (Simple dan sederhana)",
+        "linkSumber": "https://www.petanikode.com/tutorial/git/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar git & github - Web Programing Unpas (Rekomendasi untuk pemula)",
+        "linkSumber": "https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Tutorial git dasar - Programer Zaman Now (Alternatif - Satu video)",
+        "linkSumber": "https://youtu.be/fQbTeNX1mvM"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Git & github for beginners - Freecodecamp (Rekomendasi - Berbahasa inggris)",
+        "linkSumber": "https://www.youtube.com/watch?v=RGOj5yH7evk"
+      }
+    ]
+  },
+  {
+    "alur": "Frontend",
+    "subalur": "NPM",
+    "deskripsi": "NPM atau  Node Package Manager adalah sistem pengelola paket yang digunakan dalam pengembangan aplikasi JavaScript. npm dapat digunakan untuk mengunduh, menginstal, dan mengelola dependensi (library atau modul) yang dibutuhkan dalam sebuah proyek JavaScript. npm dikembangkan dan didukung oleh Node.js dan tersedia secara default ketika menginstall Node.js. npm memungkinkan developer untuk menggunakan paket yang dikembangkan oleh komunitas dan membagikannya dengan mudah ke dalam proyek mereka sendiri. npm juga memungkinkan developer untuk membagikan paket yang dikembangkan sendiri ke dalam komunitas.",
+    "catatan": "Tidak perlu untuk mempelajari terlalu jauh, cukup satu blog atau satu video saja",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Tutorial Git - Petani Kode (Sangat rekomendasi dan sudah cukup satu blog)",
+        "linkSumber": "https://www.petanikode.com/nodejs-npm/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Apa itu NPM - Web Programing Unpas (Rekomendasi untuk pemula)",
+        "linkSumber": "https://www.youtube.com/watch?v=WVHkBuiCcIs"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Tutorial nodejs (NPM) - PZN (Alternatif - Satu video)",
+        "linkSumber": "https://www.youtube.com/watch?v=7t7CJwQlmGc"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "What is NPM - Coder coder (Rekomendasi - Berbahasa inggris)",
+        "linkSumber": "https://www.youtube.com/watch?v=P3aKRdUyr0s"
+      }
+    ]
+  },
+  {
+    "alur": "Frontend",
+    "subalur": "ReactJS",
+    "deskripsi": "ReactJS adalah sebuah library JavaScript untuk membuat user interface atau komponen UI. Dikembangkan dan diurus oleh Facebook. React fokus pada pembuatan komponen UI yang dapat digunakan kembali, yang dapat digabungkan untuk membuat interface pengguna yang kompleks. React menggunakan konsep yang disebut komponen yang memungkinkan developer untuk memecah interface pengguna menjadi bagian-bagian yang lebih kecil dan dapat digunakan kembali. React mengikuti pendekatan deklaratif dalam pemrograman, yang membuatnya lebih mudah dipahami dan diprediksi perilakunya. React juga kompatibel dengan perpustakaan dan framework lainnya, sehingga menjadi pilihan populer untuk membuat aplikasi web kompleks.",
+    "catatan": "Untuk alternatif belajar lain, teman-teman bisa memilih vue atau angular. Tapi kami sangat menyarankan untuk mempelajari dan mengunakan react",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Tutorial Pengantar React - ReactId (Dokumentasi resmi)",
+        "linkSumber": "https://id.reactjs.org/tutorial/tutorial.html"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "React untuk pemula - Dea Afrizal",
+        "linkSumber": "https://www.youtube.com/watch?v=3Jgju76gS2g"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar react - CAI",
+        "linkSumber": "https://www.youtube.com/watch?v=3xB_2pHTEP0&list=PL9E3AWZAtxc6VamYdTbmQanW6RatFPT7d"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar react dari awal - Array Id (Rekomendasi tapi video panjang)",
+        "linkSumber": "https://www.youtube.com/watch?v=JS5w4rUbjQE"
+      }
+    ]
+  },
+  {
+    "alur": "Frontend",
+    "subalur": "Tailwind Css",
+    "deskripsi": "Tailwind CSS adalah sebuah framework CSS yang dirancang untuk membantu developer dalam membuat desain yang cepat, responsif dan mudah dikelola. Tailwind menyediakan sejumlah class pre-defined yang dapat digunakan untuk mengatur tampilan elemen HTML seperti warna, ukuran, posisi, dll. Ini memungkinkan developer untuk mengelola desain dengan cara yang lebih efisien dan menghindari menulis CSS dari awal. Tailwind juga memiliki sistem grid yang responsif yang memudahkan dalam pembuatan layout yang sesuai dengan ukuran layar yang berbeda. Framework ini sangat cocok digunakan untuk proyek yang memerlukan desain cepat dan efisien.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Belajar tailwindcss - Sikola koding",
+        "linkSumber": "https://sekolahkoding.com/belajar/tailwind-css"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar Tailwind - WPU",
+        "linkSumber": "https://www.youtube.com/watch?v=z3slaXqmkT0&list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar Tailwind - Parsinta (Alternatif)",
+        "linkSumber": "https://www.youtube.com/watch?v=rqdR9wbW71Y&list=PLCZlgfAG0GXC3A8LuUzbbWVWKD-CX5C3_"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Learn tailwindcss - Freecodecamp (Berbahasa inggris)",
+        "linkSumber": "https://www.youtube.com/watch?v=ft30zcMlFao"
+      }
+    ]
+  },
+  {
+    "alur": "Frontend",
+    "subalur": "Next Js",
+    "deskripsi": "Next.js adalah sebuah framework JavaScript yang digunakan untuk membuat aplikasi web server-rendered. Next.js dikembangkan di atas React.js dan difokuskan pada pengembangan aplikasi dengan performa yang baik dan mudah digunakan. Next.js menyediakan fitur seperti server-side rendering, code splitting, dan hot module replacement yang membuat aplikasi yang dikembangkan menjadi lebih cepat dan skalabel. Next.js juga menyediakan fitur seperti dynamic routing dan static site generation yang membuat pengembangan aplikasi menjadi lebih mudah dan efisien. Dengan Next.js, developer dapat membuat aplikasi web yang performatif dan mudah digunakan tanpa harus mengelola infrastruktur server secara manual.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Belajar nextjs - Sikola Koding",
+        "linkSumber": "https://sekolahkoding.com/belajar/nextjs"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar nextjs dari awal - Parsinta",
+        "linkSumber": "https://www.youtube.com/watch?v=hczYZs7fG9I&list=PLRKMmwY3-5MyVNCzavLajXccYMTBbWJS7"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar fullstack dengan nextjs - Array Id (Rekomendasi tapi video panjang)",
+        "linkSumber": "https://www.youtube.com/watch?v=kproo1ezjH0"
+      },
+      {
+        "tipe": "link",
+        "detail": "Nextjs Handbook - Freecodecamp (Berbahasa inggris)",
+        "linkSumber": "https://www.freecodecamp.org/news/the-next-js-handbook/"
+      },
+      {
+        "tipe": "link",
+        "detail": "Nextjs react framework course - Freecodecamp (Berbahasa inggris)",
+        "linkSumber": "https://www.youtube.com/watch?v=KjY94sAKLlw"
+      }
+    ]
+  },
+  {
+    "alur": "Frontend",
+    "subalur": "API",
+    "deskripsi": "API (Application Programming Interface) adalah sebuah mekanisme yang memungkinkan aplikasi atau sistem untuk saling berkomunikasi dan berinteraksi dengan satu sama lain. API menyediakan sebuah antarmuka yang dapat digunakan oleh aplikasi untuk mengakses fitur atau data dari sistem lain. API dapat digunakan untuk mengintegrasikan aplikasi atau sistem yang berbeda, misalnya mengambil data dari sebuah website atau sistem lain untuk digunakan dalam aplikasi Anda. API juga dapat digunakan untuk menyediakan akses ke fitur tertentu dari aplikasi Anda kepada pengembang lain untuk digunakan dalam aplikasi mereka sendiri.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Pengenalan api - Sikola Koding",
+        "linkSumber": "https://sekolahkoding.com/kelas/belajar-api/video/belajar-apa-itu-api"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar api, json - WPU",
+        "linkSumber": "https://www.youtube.com/watch?v=vQJJ_K1JbEA&list=PLJ_2_JcZ_v8ZoSePsWiWfEDQIDhX92m4A"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "API for beginners - Freecodecamp",
+        "linkSumber": "https://www.youtube.com/watch?v=GZvSYJDk-us"
+      }
+    ]
+  },
+  {
+    "alur": "Frontend",
+    "subalur": "Proyek Akhir",
+    "deskripsi": "Setelah menyelesaikan roadmap belajar ini, teman-teman harus mengunakan pengetahuan yang dimiliki untuk mebuat sebuah projek. Ada berbagai projek yang bisa teman-teman kerjakan untuk mengukur seberapa jauh kemampuanmu berkembang. Hal ini bersifat wajib agar teman-teman bisa melihat bagaimana hubungan dari setiap sub-roadmap yang telah teman-teman lalui.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "youtube",
+        "detail": "Membuat portfolio dengan tailwindcss - WPU",
+        "linkSumber": "https://www.youtube.com/watch?v=8Ea4oq8qFtM"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Twitter clone - ILW Yennefer (Berbahasa inggris)",
+        "linkSumber": "https://www.youtube.com/watch?v=5Wak0iyGCrc"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Landing page - Rowno Makhbub (Berbahasa inggris)",
+        "linkSumber": "https://www.youtube.com/watch?v=CiyoLLWumvQ"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Website vooting - Fahrezi Adha",
+        "linkSumber": "https://www.youtube.com/watch?v=IlNRFc2d2dU&t=2697s"
+      }
+    ]
+  },
+  {
+    "alur": "Backend",
+    "subalur": "Dasar Web",
+    "deskripsi": "Mempelajari bagaimana internet bisa berkomunikasi dengan komputer yang ada didunia untuk menyediakan beragam informasi. Komunikasi tersebut memiliki standarisasi yang berlaku secara global. Dasar tersebut akan memberikan kemampuan pada browser untuk menampilkan informasi yang dibutuhkan oleh pengguna. Tambahannya, kita perlu mengetahui bagaimana informasi bisa diakses secara online melalui penamaan domain. Seperti google.com, youtube.com, github.io, dll.",
+    "catatan": "Cukup pahami bagaimana internet bekerja. Ini hanyalah pengetahuan dasar yang dibutuhkan untuk memulai perjalanan belajar frontend.",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "HTTP - Dicoding Blog",
+        "linkSumber": "https://www.dicoding.com/blog/perbedaan-http-dan-https/"
+      },
+      {
+        "tipe": "link",
+        "detail": "Apa itu domain - Hostinger",
+        "linkSumber": "https://www.hostinger.co.id/tutorial/apa-itu-domain/"
+      },
+      {
+        "tipe": "link",
+        "detail": "DNS - Hostinger",
+        "linkSumber": "https://www.niagahoster.co.id/blog/apa-itu-dns/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar HTTP - Programer Zaman Now (Optional)",
+        "linkSumber": "https://www.youtube.com/watch?v=92Rjzrq4oIg"
+      },
+      {
+        "tipe": "link",
+        "detail": "How does internet work - MDN (Lengkap - Berbahasa inggris)",
+        "linkSumber": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work"
+      }
+    ]
+  },
+  {
+    "alur": "Backend",
+    "subalur": "Javascript",
+    "deskripsi": "JavaScript adalah bahasa pemrograman yang digunakan untuk menambahkan interaksi dan dinamika pada halaman web. JavaScript digunakan untuk mengontrol elemen HTML dan CSS, sehingga dapat membuat website lebih interaktif dan responsif. JavaScript juga digunakan untuk melakukan operasi pada data, seperti validasi form, pengambilan data dari server, dll. JavaScript biasanya dijalankan di browser, tetapi juga dapat dijalankan di server dengan menggunakan Node.js.",
+    "catatan": "Setelah mempelajari javascript, teman-teman bisa membuat satu atau lebih project agar dapat melihat dan memanfaatkan pengetahuan yang sudah didapat. Seperti misalnya membuat sebuah kalkulator sederhana.",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Tutorial Javascript - Petani Kode (Simple dan sederhana)",
+        "linkSumber": "https://www.petanikode.com/tutorial/javascript/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Javascript Dasar - Web Programing Unpas (Rekomendasi untuk pemula)",
+        "linkSumber": "https://www.youtube.com/watch?v=RUTV_5m4VeI&list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w"
+      },
+      {
+        "tipe": "link",
+        "detail": "Javascript Lengkap - W3Schools (Berbahasa inggris)",
+        "linkSumber": "https://w3schools.com/js/"
+      },
+      {
+        "tipe": "game",
+        "detail": "Introduction to Javascript - Sololearn (Berbahasa inggris)",
+        "linkSumber": "https://www.sololearn.com/learn/courses/javascript-introduction"
+      },
+      {
+        "tipe": "github",
+        "detail": "30 days challanges of Javascript - Repos Github (Berbahasa inggris)",
+        "linkSumber": "https://github.com/Asabeneh/30-Days-Of-JavaScript"
+      }
+    ]
+  },
+  {
+    "alur": "Backend",
+    "subalur": "CLI",
+    "deskripsi": "CLI (Command Line Interface) adalah sebuah antarmuka yang digunakan untuk mengontrol komputer atau sistem operasi dengan mengetik perintah pada command line atau prompt. CLI menyediakan akses langsung ke sistem operasi tanpa melalui antarmuka grafis yang biasa dilihat pada perangkat lunak atau aplikasi. CLI memungkinkan pengguna untuk mengeksekusi perintah yang kompleks, mengelola file dan folder, mengubah pengaturan sistem, dan melakukan tugas-tugas administratif lainnya dengan cepat dan efisien.",
+    "catatan": "Cukup kuasai perintah-perintah dasar untuk memudahkan dalam proses pengelolahan codingan, file dan data.",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Apa itu cli? - Hostinger",
+        "linkSumber": "https://www.hostinger.co.id/tutorial/apa-itu-cli"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Terminal CLI dasar - Dea Afrizal",
+        "linkSumber": "https://www.youtube.com/watch?v=ClbWfffCYf4"
+      },
+      {
+        "tipe": "link",
+        "detail": "Command line crash course - MDN (Berbahasa inggris)",
+        "linkSumber": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line"
+      }
+    ]
+  },
+  {
+    "alur": "Backend",
+    "subalur": "Node JS",
+    "deskripsi": "Node.js adalah platform perangkat lunak open-source yang dikembangkan dengan menggunakan JavaScript. Node.js memungkinkan developer untuk menjalankan kode JavaScript di luar browser, misalnya di server atau aplikasi desktop. Node.js menyediakan lingkungan runtime JavaScript yang dapat digunakan untuk membuat aplikasi web, server, dan aplikasi mobile. Node.js juga menyediakan modul yang dapat digunakan untuk mengakses fungsi sistem operasi dan mengelola jaringan, file, dan basis data. Node.js sangat populer digunakan untuk membuat aplikasi web real-time yang memerlukan komunikasi yang cepat antara server dan klien.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Tutorial NodeJS - Petani Kode (Simple dan sederhana)",
+        "linkSumber": "https://www.petanikode.com/tutorial/nodejs/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar NodeJS - Web Programing Unpas (Rekomendasi untuk pemula)",
+        "linkSumber": "https://www.youtube.com/watch?v=sSLJx5t4OJ4&list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "NodeJS untuk pemula - Dea afrizal (Alternatif)",
+        "linkSumber": "https://www.youtube.com/watch?v=kLUI9LISP5k"
+      },
+      {
+        "tipe": "link",
+        "detail": "Introduction to NodeJS (Web resmi - Berbahasa inggris)",
+        "linkSumber": "https://nodejs.dev/en/learn/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Crash course NodeJS - The Net Ninja (Berbahasa inggris)",
+        "linkSumber": "https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU"
+      }
+    ]
+  },
+  {
+    "alur": "Backend",
+    "subalur": "Git",
+    "deskripsi": "Git adalah version control system (VCS) yang terdistribusi dan digunakan untuk melacak perubahan pada file komputer dan menyelaraskan kerja pada file tersebut antara beberapa orang. Git pertama kali dikembangkan oleh Linus Torvalds, yang juga merupakan pembuat sistem operasi Linux. Git memungkinkan developer untuk menyimpan versi dari kode mereka dan mengelola perubahan yang dibuat selama pengembangan. Git juga memungkinkan developer untuk bekerja secara bersama-sama pada proyek yang sama dengan menyelaraskan perubahan mereka secara real-time.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Tutorial Git - Petani Kode (Simple dan sederhana)",
+        "linkSumber": "https://www.petanikode.com/tutorial/git/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar git & github - Web Programing Unpas (Rekomendasi untuk pemula)",
+        "linkSumber": "https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Tutorial git dasar - Programer Zaman Now (Alternatif - Satu video)",
+        "linkSumber": "https://youtu.be/fQbTeNX1mvM"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Git & github for beginners - Freecodecamp (Rekomendasi - Berbahasa inggris)",
+        "linkSumber": "https://www.youtube.com/watch?v=RGOj5yH7evk"
+      }
+    ]
+  },
+  {
+    "alur": "Backend",
+    "subalur": "Postgres SQL",
+    "deskripsi": "PostgreSQL adalah sistem manajemen basis data relasional (RDBMS) yang open-source dan sangat powerful. PostgreSQL dikenal sebagai salah satu sistem manajemen basis data yang paling fleksibel dan handal dalam hal skalabilitas, performa, dan fitur-fiturnya. PostgreSQL menyediakan fitur-fitur yang sangat lengkap seperti support untuk indexing, transaksi, dan konsistensi data. PostgreSQL juga sangat kuat dalam hal keamanan dan dapat digunakan untuk mengelola data yang sangat besar dan kompleks. PostgreSQL juga dapat digunakan untuk mengelola data yang berbeda jenis, seperti data geospasial, data statistik, dan data waktu. PostgreSQL digunakan pada aplikasi yang memerlukan integritas data yang tinggi, seperti sistem manajemen inventori, sistem manajemen sumber daya, dll.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Panduan PostgreSQL untuk pemula - Dewaweb",
+        "linkSumber": "https://www.dewaweb.com/blog/apa-itu-postgresql/"
+      },
+      {
+        "tipe": "link",
+        "detail": "Tutorial PostgreSQL - Kelas Programer",
+        "linkSumber": "https://kelasprogrammer.com/tutorial-postgresql/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Full course: PostgreSQL - Freecodecamp",
+        "linkSumber": "https://youtu.be/qw--VYLpxG4"
+      }
+    ]
+  },
+  {
+    "alur": "Backend",
+    "subalur": "API",
+    "deskripsi": "API (Application Programming Interface) adalah sebuah mekanisme yang memungkinkan aplikasi atau sistem untuk saling berkomunikasi dan berinteraksi dengan satu sama lain. API menyediakan sebuah antarmuka yang dapat digunakan oleh aplikasi untuk mengakses fitur atau data dari sistem lain. API dapat digunakan untuk mengintegrasikan aplikasi atau sistem yang berbeda, misalnya mengambil data dari sebuah website atau sistem lain untuk digunakan dalam aplikasi Anda. API juga dapat digunakan untuk menyediakan akses ke fitur tertentu dari aplikasi Anda kepada pengembang lain untuk digunakan dalam aplikasi mereka sendiri.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Pengenalan api - Sikola Koding",
+        "linkSumber": "https://sekolahkoding.com/kelas/belajar-api/video/belajar-apa-itu-api"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Belajar api, json - WPU",
+        "linkSumber": "https://www.youtube.com/watch?v=vQJJ_K1JbEA&list=PLJ_2_JcZ_v8ZoSePsWiWfEDQIDhX92m4A"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "API for beginners - Freecodecamp",
+        "linkSumber": "https://www.youtube.com/watch?v=GZvSYJDk-us"
+      }
+    ]
+  },
+  {
+    "alur": "Backend",
+    "subalur": "Caching",
+    "deskripsi": "Caching adalah teknik penyimpanan data atau informasi yang sering digunakan dalam memori lokal, untuk jangka waktu tertentu. Jadi, pada saat yang sama, ketika klien meminta informasi yang sama, sebaliknya dari mengambil informasi dari database, akan memberikan informasi dari memori lokal. Keuntungan utama caching adalah meningkatkan kinerja dengan mengurangi beban pemrosesan.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Apa itu cache - Dicoding",
+        "linkSumber": "https://www.dicoding.com/blog/apa-itu-cache/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Caching - Programer Zaman Now",
+        "linkSumber": "https://www.youtube.com/watch?v=GOlj04KHxxg"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Everything you need to know about caching - The Roadmap (Berbahasa inggris)",
+        "linkSumber": "https://www.youtube.com/watch?v=HiBDZgTNpXY"
+      }
+    ]
+  },
+  {
+    "alur": "Backend",
+    "subalur": "Security",
+    "deskripsi": "Security untuk backend web developer merupakan proses yang digunakan untuk melindungi aplikasi web dari serangan dan ancaman keamanan, seperti autentikasi dan otorisasi yang aman, enkripsi data sensitif, validasi input, sanitasi dan escape dari input, patches dan update sistem, logging dan audit aktivitas, dan pengetesan keamanan secara berkala. Hal-hal tersebut dapat digunakan untuk mencegah akses yang tidak sah, mencegah serangan SQL injection, dan memastikan bahwa aplikasi selalu up-to-date dan aman dari ancaman keamanan.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Standar keamanan: OWASP - Dewaweb",
+        "linkSumber": "https://www.dewaweb.com/blog/owasp-standar-keamanan-web-app-dunia/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "JSON web token - Programer Zaman Now",
+        "linkSumber": "https://www.youtube.com/watch?v=_w9ixlwUsgg"
+      },
+      {
+        "tipe": "link",
+        "detail": "Security policy - MDN (Berbahasa inggris)",
+        "linkSumber": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP"
+      }
+    ]
+  },
+  {
+    "alur": "Backend",
+    "subalur": "Testing",
+    "deskripsi": "Testing pada pengembangan website adalah proses melakukan uji coba terhadap aplikasi web untuk memastikan bahwa aplikasi tersebut berfungsi dengan baik dan memenuhi spesifikasi yang ditentukan. Ada beberapa jenis testing yang digunakan seperti Unit Testing, Integration Testing, Functional Testing, Performance Testing, dan Acceptance Testing. Unit testing melakukan uji coba pada unit-unit individual dari aplikasi, sedangkan integration testing melakukan uji coba bagaimana unit-unit bekerja sama. Functional testing melakukan uji coba pada fitur-fitur aplikasi dan performance testing melakukan uji coba pada kinerja aplikasi. Acceptance testing melakukan uji coba dari perspektif pengguna untuk memastikan bahwa aplikasi memenuhi persyaratan yang ditentukan dan diterima oleh pengguna. Testing sangat penting karena memungkinkan ditemukannya kesalahan sebelum aplikasi di-launch dan digunakan oleh pengguna, sehingga menjamin kualitas aplikasi dan kepuasan pengguna.",
+    "catatan": "",
+    "sumberBelajar": [
+      {
+        "tipe": "link",
+        "detail": "Langkah pengujian web - Webzid",
+        "linkSumber": "https://webzid.com/6-langkah-untuk-pengujian-aplikasi-web/"
+      },
+      {
+        "tipe": "youtube",
+        "detail": "Siapa yang membuat test? - Programer Zaman Now",
+        "linkSumber": "https://www.youtube.com/watch?v=94VbdqYziHU"
+      },
+      {
+        "tipe": "link",
+        "detail": "What is software testing - Guru99 (Berbahasa inggris)",
+        "linkSumber": "https://www.guru99.com/software-testing-introduction-importance.html"
+      }
+    ]
+  }
+]
