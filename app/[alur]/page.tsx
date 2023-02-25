@@ -3,12 +3,12 @@ import TitlePage from "@/app/components/titlePage";
 import CardDesc from "@/app/components/cardDesc";
 import CardNote from "@/app/components/cardNote";
 
-import alurBelajar from "@/lib/alurBelajar.json";
+import alurBelajar from "@/data/alurBelajar.json";
 import slugify from "@/lib/slugify";
 
 export async function generateStaticParams() {
   return alurBelajar.map((al) => ({
-    alur: al.alur,
+    alur: slugify(al.alur),
   }));
 }
 

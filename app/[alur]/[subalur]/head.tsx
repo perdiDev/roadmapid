@@ -1,6 +1,6 @@
 import DefaultTags from "@/app/layout/defaultTags";
 
-import dataSubalurBelajar from "@/lib/subAlurBelajar.json";
+import dataSubalurBelajar from "@/data/subAlurBelajar.json";
 import slugify from "@/lib/slugify";
 
 export default function Head({

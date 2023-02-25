@@ -4,7 +4,7 @@ import CardNote from "@/app/components/cardNote";
 import SourceBelajar from "@/app/components/sourceBelajar";
 import TitlePage from "@/app/components/titlePage";
 
-import dataSubalurBelajar from "@/lib/subAlurBelajar.json";
+import dataSubalurBelajar from "@/data/subAlurBelajar.json";
 import slugify from "@/lib/slugify";
 
 export async function generateStaticParams() {
