@@ -8,7 +8,7 @@ import slugify from "@/lib/slugify";
 
 export async function generateStaticParams() {
   return alurBelajar.map((al) => ({
-    alur: al.alur,
+    alur: slugify(al.alur),
   }));
 }
 

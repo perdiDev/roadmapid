@@ -1,5 +1,5 @@
 import Button from "./components/button";
-import alurBelajar from "@/lib/alurBelajar.json";
+import alurBelajar from "@/data/alurBelajar.json";
 
 export default function Home() {
   return (
